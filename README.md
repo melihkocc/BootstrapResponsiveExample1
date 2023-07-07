@@ -2,7 +2,7 @@
  A site using with Bootstrap
  
 ## Live Demo Link
-<a href="https://melihkocc.github.io/todolist_proje/">Demo Link</a>
+<a href="https://melihkocc.github.io/BootstrapResponsiveExample1/">Demo Link</a>
 
 ## Technologies
 · HTML<br>
